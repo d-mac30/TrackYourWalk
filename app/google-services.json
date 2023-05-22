@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1088350296447",
+    "project_id": "trackyourwalk-1fa63",
+    "storage_bucket": "trackyourwalk-1fa63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088350296447:android:069383770240b91db2624a",
+        "android_client_info": {
+          "package_name": "com.example.trackyourwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088350296447-hg17fpdg7o58kntfhkn03qv6ak3849pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eAlF-Tlk0I1zXOUH8JyFKksqvjt1PfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088350296447-hg17fpdg7o58kntfhkn03qv6ak3849pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088350296447:android:25e2f02c844c151db2624a",
+        "android_client_info": {
+          "package_name": "com.example.trackyourwalk_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088350296447-hg17fpdg7o58kntfhkn03qv6ak3849pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eAlF-Tlk0I1zXOUH8JyFKksqvjt1PfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088350296447-hg17fpdg7o58kntfhkn03qv6ak3849pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
